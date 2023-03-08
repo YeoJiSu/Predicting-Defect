@@ -3,4 +3,4 @@
 
 - 개발 환경: [Google Colab](https://colab.research.google.com/drive/1VYaNFpjZ4k29XI5_N5IISbdFYp6q6BMO?usp=sharing)
 - 사용 언어: Python
-- 기간: 2023.03.02 ~ ing
+- 개발 기간: 2023.03.02 ~ ing
